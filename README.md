@@ -123,7 +123,7 @@ The project includes an interactive Power BI dashboard (`Dashboard/India.pbix`) 
 - Urban vs Rural breakdowns
 - Interactive filters and drill-down capabilities
 
-<img width="1289" height="721" alt="Screenshot 2026-01-20 214242" src="https://github.com/user-attachments/assets/f1c6eb80-0910-4e61-8438-6f0cbfd3c015" />
+<img width="1289" height="721" alt="Screenshot 2026-01-20 214242" src="https://github.com/user-attachments/assets/cbb4140f-d475-4358-b172-a7543fa50f5e" />
 
 ### Dashboard Features
 
@@ -246,3 +246,4 @@ This project is open source and available under the [MIT License](LICENSE).
 - Dataset source: (https://www.kaggle.com/datasets/gokulrajkmv/unemployment-in-india/data)
 
 For questions or suggestions, please open an issue on GitHub.
+
