@@ -32,7 +32,7 @@ This project provides an in-depth analysis of unemployment data in India from Ma
 ## 📁 Project Structure
 
 ```
-Task 2/
+/
 │
 ├── Dataset/
 │   └── Unemployment in India.csv          # Main dataset file
@@ -244,9 +244,5 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 🙏 Acknowledgments
 
 - Dataset source: (https://www.kaggle.com/datasets/gokulrajkmv/unemployment-in-india/data)
-- CodeAlpha for the project opportunity
-- Open source community for tools and libraries
-
----
 
 For questions or suggestions, please open an issue on GitHub.
